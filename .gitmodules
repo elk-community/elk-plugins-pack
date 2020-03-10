@@ -1,0 +1,93 @@
+[submodule "guitarix"]
+	path = guitarix
+	url = https://github.com/elk-community/guitarix
+[submodule "faust-plugins"]
+	path = faust-plugins
+	url = https://github.com/elk-community/faust-plugins
+[submodule "SANA_8BIT_VST"]
+	path = SANA_8BIT_VST
+	url = https://github.com/elk-community/SANA_8BIT_VST
+[submodule "Kapitonov-Plugins-Pack"]
+	path = Kapitonov-Plugins-Pack
+	url = https://github.com/elk-community/Kapitonov-Plugins-Pack
+[submodule "GxPlugins.lv2"]
+	path = GxPlugins.lv2
+	url = https://github.com/elk-community/GxPlugins.lv2
+[submodule "calf"]
+	path = calf
+	url = https://github.com/elk-community/calf
+[submodule "lkjb-plugins"]
+	path = lkjb-plugins
+	url = https://github.com/elk-community/lkjb-plugins
+[submodule "andes"]
+	path = andes
+	url = https://github.com/elk-community/andes
+[submodule "lv2vst"]
+	path = lv2vst
+	url = https://github.com/elk-community/lv2vst
+[submodule "airwindows"]
+	path = airwindows
+	url = https://github.com/elk-community/airwindows
+[submodule "DPF-Plugins"]
+	path = DPF-Plugins
+	url = https://github.com/elk-community/DPF-Plugins
+[submodule "OB-Xd"]
+	path = OB-Xd
+	url = https://github.com/elk-community/OB-Xd
+[submodule "temper"]
+	path = temper
+	url = https://github.com/elk-community/temper
+[submodule "juicysfplugin"]
+	path = juicysfplugin
+	url = https://github.com/elk-community/juicysfplugin
+[submodule "cabbage"]
+	path = cabbage
+	url = https://github.com/elk-community/cabbage
+[submodule "balance.lv2"]
+	path = balance.lv2
+	url = https://github.com/x42/balance.lv2
+[submodule "caps-lv2"]
+	path = caps-lv2
+	url = https://github.com/moddevices/caps-lv2
+[submodule "fat1.lv2"]
+	path = fat1.lv2
+	url = https://github.com/x42/fat1.lv2
+[submodule "fomp"]
+	path = fomp
+	url = https://gitlab.com/drobilla/fomp
+[submodule "Freaked"]
+	path = Freaked
+	url = https://github.com/pjotrompet/Freaked
+[submodule "infamousPlugins"]
+	path = infamousPlugins
+	url = https://github.com/ssj71/infamousPlugins
+[submodule "invada-studio"]
+	path = invada-studio
+	url = https://github.com/BlokasLabs/invada-studio
+[submodule "Magical8bitPlug2"]
+	path = Magical8bitPlug2
+	url = https://github.com/yokemura/Magical8bitPlug2
+[submodule "midifilter.lv2"]
+	path = midifilter.lv2
+	url = https://github.com/x42/midifilter.lv2
+[submodule "mod-utilities"]
+	path = mod-utilities
+	url = https://github.com/moddevices/mod-utilities
+[submodule "openAV-ArtyFX"]
+	path = openAV-ArtyFX
+	url = https://github.com/openAVproductions/openAV-ArtyFX
+[submodule "stepseq.lv2"]
+	path = stepseq.lv2
+	url = https://github.com/x42/stepseq.lv2
+[submodule "lv2"]
+	path = lv2
+	url = https://github.com/swh/lv2/
+[submodule "tap-lv2"]
+	path = tap-lv2
+	url = https://github.com/moddevices/tap-lv2
+[submodule "testsignal.lv2"]
+	path = testsignal.lv2
+	url = https://github.com/x42/testsignal.lv2
+[submodule "triceratops"]
+	path = triceratops
+	url = https://github.com/thunderox/triceratops
